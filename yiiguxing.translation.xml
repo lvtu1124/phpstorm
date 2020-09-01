@@ -1,0 +1,14 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Duplicated code fragment (14 lines long) Inspection info:Reports duplicated blocks of code from the selected scope: the same file or the entire project." />
+      <item value="$temp path" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
