@@ -1,11 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="apacheroot" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd_file" type="PLAIN_TEXT" />
       <mapping pattern="说明" type="PLAIN_TEXT" />
-      <mapping pattern="apacheroot" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="sdb" type="PLAIN_TEXT" />
@@ -15,10 +18,10 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
