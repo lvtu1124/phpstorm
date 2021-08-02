@@ -17,6 +17,7 @@
       <mapping ext="sdb" type="PLAIN_TEXT" />
       <mapping ext="simple" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="exp" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
