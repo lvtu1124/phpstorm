@@ -6,10 +6,10 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="httpd" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd_file" type="PLAIN_TEXT" />
       <mapping pattern="大哥，数据库有更改，记得同步一下纯净数据库，切记！！！" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="说明" type="PLAIN_TEXT" />
       <mapping pattern="apacheroot" type="PLAIN_TEXT" />
